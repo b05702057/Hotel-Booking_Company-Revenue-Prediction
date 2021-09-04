@@ -1,9 +1,9 @@
-# Hotel-Revenue-Prediction
+# Hotel-Booking-Company-Revenue-Prediction
 
 ### A project that utilizes neural network models and random forest models to predict the revenue of a hotel
 
 ## Task
-To predict the revenue of a hotel, we predict the price of different rooms and the probability of cancelation of different customers.
+To predict the revenue of a hotel booking company, we predict the revenue of different rooms and the probability of cancelation of different customers.
 We multiply and sum the numbers to get the final revenue. We also use unsemble techniques to combine different models to get a more reliable prediction.
 
 ### Run on Colab (cannot save your own version)
