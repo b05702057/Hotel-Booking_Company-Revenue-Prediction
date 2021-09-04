@@ -8,8 +8,11 @@ We multiply and sum the numbers to get the final revenue. We also use unsemble t
 
 ### Run on Colab (cannot save your own version)
 * Access the notebook to run the codes: https://colab.research.google.com/drive/1f9aZB6GEjBAqFOM4caO7p0M0TNUeCp9P
-* * Access the notebook to run the codes: https://colab.research.google.com/drive/1A7xKxnzheFzt4QsAOuiyk31rR-S5BBP3?usp=sharing
+* Access the notebook to run the codes: https://colab.research.google.com/drive/1A7xKxnzheFzt4QsAOuiyk31rR-S5BBP3?usp=sharing
 
 ### Run on Colab (can save your own version)
-* Run this command: git clone <https://github.com/b05702057/Model-Attacking-Defending.git>
+* Run this command: git clone https://github.com/b05702057/Hotel-Revenue-Prediction.git
 * Upload the .ipynb files to your google drive and open it with colab
+
+### Note
+The detailed of the models and techniques can be seen in the report.
